@@ -1,4 +1,3 @@
-multi-Channel Marketing Campaign Performance Analysis
 
 ## 📌 Project Overview
 This project analyzes **10,000 digital marketing campaigns** conducted between **January 2025 and January 2026** across five advertising channels:
